@@ -32,7 +32,7 @@ Mon expérience la plus importante jusqu'ici est ma contribution à **Team Arcad
   <img src="https://img.shields.io/badge/🌐_Découvrir_le_site-arcadia--echoes--of--power.fr-8b5cf6?style=for-the-badge" alt="Découvrir le site Arcadia" />
 </a>
 <a href="https://github.com/Team-Arcadia">
-  <img src="https://img.shields.io/badge/💜_Rejoindre_l'équipe-Team--Arcadia-7c3aed?style=for-the-badge" alt="Rejoindre Team Arcadia" />
+  <img src="https://img.shields.io/badge/💜 Team--Arcadia-7c3aed?style=for-the-badge" alt="Team Arcadia" />
 </a>
 
 </div>
