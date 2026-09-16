@@ -1,0 +1,31 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="arcadiaBg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10051F"/>
+      <stop offset="0.5" stop-color="#3B146B"/>
+      <stop offset="1" stop-color="#7E22CE"/>
+    </linearGradient>
+    <pattern id="arcadiaGrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#E9D5FF" stroke-opacity="0.13"/>
+    </pattern>
+    <filter id="arcadiaBlur"><feGaussianBlur stdDeviation="24"/></filter>
+    <clipPath id="logoClip"><rect x="790" y="22" width="350" height="216" rx="18"/></clipPath>
+  </defs>
+  <rect width="1200" height="260" rx="24" fill="url(#arcadiaBg)"/>
+  <circle cx="1040" cy="30" r="170" fill="#C084FC" fill-opacity="0.22" filter="url(#arcadiaBlur)">
+    <animate attributeName="opacity" values="0.45;0.9;0.45" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <rect width="1200" height="260" rx="24" fill="url(#arcadiaGrid)">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="36 36" dur="8s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M0 210C180 155 260 245 430 185C590 128 720 226 870 160C1010 98 1100 130 1200 76" stroke="#E9D5FF" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="16 14">
+    <animate attributeName="stroke-dashoffset" from="0" to="-60" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <text x="74" y="92" fill="#E9D5FF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="4">TEAM ARCADIA PRESENTS</text>
+  <text x="70" y="150" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800">ECHOES OF POWER</text>
+  <text x="74" y="188" fill="#D8B4FE" font-family="Arial, Helvetica, sans-serif" font-size="18">Magic · machinery · adventure</text>
+  <rect x="790" y="22" width="350" height="216" rx="18" fill="#160B2E" fill-opacity="0.32" stroke="#E9D5FF" stroke-opacity="0.22"/>
+  <image href="arcadia-logo.webp" x="805" y="36" width="320" height="188" preserveAspectRatio="xMidYMid meet" clip-path="url(#logoClip)">
+    <animate attributeName="opacity" values="0.9;1;0.9" dur="5s" repeatCount="indefinite"/>
+  </image>
+</svg>
