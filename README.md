@@ -43,7 +43,7 @@ Mon expérience la plus importante jusqu'ici est ma contribution à **Team Arcad
 
 **Arcadia: Echoes of Power** est un projet communautaire ambitieux porté par [Team Arcadia](https://github.com/Team-Arcadia). Le modpack propose une progression travaillée, des mods sélectionnés et un univers en évolution, avec l'objectif de créer une aventure Minecraft unique.
 
-➡️ **Tu veux en savoir plus ?** [Visite le site officiel](https://www.arcadia-echoes-of-power.fr/) · [découvre les projets GitHub de l'équipe](https://github.com/Team-Arcadia) · [suis le fondateur, laforetbrut](https://github.com/laforetbrut)
+**Tu veux en savoir plus ?** [Visite le site officiel](https://www.arcadia-echoes-of-power.fr/) · [découvre les projets GitHub de l'équipe](https://github.com/Team-Arcadia) · [suis le fondateur, laforetbrut](https://github.com/laforetbrut)
 
 ## Ce que j'apprends
 
@@ -58,7 +58,7 @@ Mon expérience la plus importante jusqu'ici est ma contribution à **Team Arcad
 - Contribuer quand je peux réellement apporter quelque chose
 - Continuer à progresser, un commit à la fois
 
-## 📌 En ce moment
+## En ce moment
 
 Je découvre, j'expérimente et je contribue progressivement aux projets qui m'intéressent — avec une attention particulière pour l'écosystème **Arcadia**.
 
