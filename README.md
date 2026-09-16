@@ -91,7 +91,7 @@ My main experience so far has been contributing to **Team Arcadia**, the team be
 ## Arcadia: Echoes of Power
 
 <div align="center">
-  <img src="./assets/arcadia-section-banner.svg" alt="Arcadia: Echoes of Power banner" width="100%" />
+  <img src="./assets/arcadia-section-banner-en.svg" alt="Arcadia: Echoes of Power banner" width="100%" />
 </div>
 
 <div align="center">
