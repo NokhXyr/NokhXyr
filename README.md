@@ -88,7 +88,7 @@ I am starting to learn software development, especially **Java**, and I take the
 
 My main experience so far has been contributing to **Team Arcadia**, the team behind **Arcadia: Echoes of Power**.
 
-## 🌌 Arcadia: Echoes of Power
+## Arcadia: Echoes of Power
 
 <div align="center">
   <img src="./assets/arcadia-section-banner.svg" alt="Arcadia: Echoes of Power banner" width="100%" />
@@ -109,16 +109,16 @@ My main experience so far has been contributing to **Team Arcadia**, the team be
 
 **Arcadia: Echoes of Power** is an ambitious community project created by [Team Arcadia](https://github.com/Team-Arcadia). The modpack features carefully designed progression, selected mods, and an evolving universe, with the goal of creating a unique Minecraft adventure.
 
-➡️ **Want to learn more?** [Visit the official website](https://www.arcadia-echoes-of-power.fr/) · [explore the team's GitHub projects](https://github.com/Team-Arcadia) · [follow the founder, laforetbrut](https://github.com/laforetbrut)
+**Want to learn more?** [Visit the official website](https://www.arcadia-echoes-of-power.fr/) · [explore the team's GitHub projects](https://github.com/Team-Arcadia) · [follow the founder, laforetbrut](https://github.com/laforetbrut)
 
 ## What I am learning
 
-- 📚 Learning the fundamentals of Java and programming
-- 🧩 Exploring community projects and Minecraft modding
-- 🤝 Contributing when I can genuinely be useful
-- 🚀 Continuing to improve, one commit at a time
+- Learning the fundamentals of Java and programming
+- Exploring community projects and Minecraft modding
+- Contributing when I can genuinely be useful
+- Continuing to improve, one commit at a time
 
-## 📌 Right now
+## Right now
 
 I am discovering, experimenting, and gradually contributing to the projects that interest me — with a special focus on the **Arcadia** ecosystem.
 
