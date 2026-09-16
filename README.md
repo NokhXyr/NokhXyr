@@ -4,7 +4,7 @@
 
 # Salut, moi c'est NokhXyr
 
-### Développeur en apprentissage · Java · Open source
+### Développeur en apprentissage · Java
 
 <p>
   <a href="https://github.com/NokhXyr"><img src="https://img.shields.io/badge/GitHub-NokhXyr-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Profil GitHub" /></a>
@@ -76,7 +76,7 @@ Je découvre, j'expérimente et je contribue progressivement aux projets qui m'i
 
 # Hi, I'm NokhXyr
 
-### Learning developer · Java · Open source
+### Learning developer · Java
 
 > I like contributing when I feel able to — and improving with every project.
 
